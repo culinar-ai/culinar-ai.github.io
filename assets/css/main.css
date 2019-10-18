@@ -134,8 +134,8 @@ body {
   left: 0;
   opacity: 0.375;
   position: fixed;
-  top: 60px;
-  bottom: 60px;
+  top: 0px;
+  bottom: 0px;
   width: 100%;
   z-index: 1; }
   #bg div {
