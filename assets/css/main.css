@@ -130,11 +130,12 @@ body {
   -webkit-transition: opacity 2s ease-in-out;
   -ms-transition: opacity 2s ease-in-out;
   transition: opacity 2s ease-in-out;
-  height: 100vh;
+  height: 100%;
   left: 0;
   opacity: 0.375;
   position: fixed;
-  top: 0;
+  top: 60px;
+  bottom: 60px;
   width: 100%;
   z-index: 1; }
   #bg div {
